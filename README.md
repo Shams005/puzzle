@@ -28,7 +28,7 @@ Try online editor: [Puzzle](https://krishealty.github.io/puzzle/)
 
 Try demo: [Demo](https://krishealty.github.io/puzzle/example.html)
 
-Editor features
+Editor features.
 - Automatic style adaptation based on image dimensions
 - Proportional division of an image into blocks
 - Building / exporting HTML file with the game
